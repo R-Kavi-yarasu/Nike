@@ -17,6 +17,7 @@ This project is a responsive webpage showcasing Nike shoes, designed with a focu
 - **JavaScript**: Adds interactivity (e.g., hover effects, basic animations).
 
 ## Screen Shot
-![image](https://github.com/user-attachments/assets/b8041b65-9de7-4da2-9c72-1b3e4fa4ecf4)
-![image](https://github.com/user-attachments/assets/93b166d6-1231-4a45-834f-90979e97d5a7)
+![image](https://github.com/user-attachments/assets/8051e1e2-73fd-4144-9f8b-1488110c4524)
+![image](https://github.com/user-attachments/assets/dff9fc52-d341-4ae4-9b05-00a999a479d5)
+
 
